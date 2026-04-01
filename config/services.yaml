@@ -11,7 +11,7 @@
         icon: deepseek.png
         href: https://chat.deepseek.com/
     - Grok:
-        icon: grok.png  # У Грока часто используют иконку X (Twitter)
+        icon: grok.png
         href: https://grok.com/
     - Claude:
         icon: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png
@@ -20,6 +20,9 @@
     - GitHub:
         icon: github.png
         href: https://github.com/
+    - GitLab:
+        icon: gitlab.png
+        href: https://gitlab.com/
     - DigitalOcean:
         icon: digital-ocean.png
         href: https://cloud.digitalocean.com/
@@ -67,3 +70,6 @@
     - PayPal:
         icon: paypal.png
         href: https://www.paypal.com/
+    - LinkedIn:
+        icon: linkedin.png
+        href: https://www.linkedin.com/feed/
