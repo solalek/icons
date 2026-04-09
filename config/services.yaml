@@ -16,6 +16,9 @@
     - Claude:
         icon: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Claude_AI_symbol.svg/1280px-Claude_AI_symbol.svg.png
         href: https://claude.ai/new
+    - Perplexity:
+        icon: https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/perplexity-kcjtmnt09fjb1qgfxcdbd.png/perplexity-e6a4e1t06hd6dhczot580o.png?_a=DATAiZAAZAA0
+        href: https://www.perplexity.ai/
 - Cloud & Dev:
     - GitHub:
         icon: github.png

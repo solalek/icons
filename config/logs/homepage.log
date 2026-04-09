@@ -304,3 +304,100 @@
 [2026-03-08T11:48:56.246Z] error: Host validation failed for: localhost:3030. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
 [2026-03-08T11:49:40.737Z] error: Host validation failed for: localhost:3030. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
 [2026-03-08T11:49:40.741Z] error: Host validation failed for: localhost:3030. Hint: Set the HOMEPAGE_ALLOWED_HOSTS environment variable to allow requests from this host / port.
+[2026-03-11T08:49:54.922Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-11T08:49:54.928Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-03-12T11:17:58.325Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-12T11:17:58.330Z] error: <httpProxy> [
+  500,
+  [Error: Client network socket disconnected before secure TLS connection was established] {
+    code: 'ECONNRESET',
+    path: null,
+    host: 'api.github.com',
+    port: 443,
+    localAddress: undefined
+  }
+]
+[2026-03-31T03:41:12.632Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-31T03:41:12.639Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 140.82.121.5:443
+      at <unknown> (Error: connect ETIMEDOUT 140.82.121.5:443) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '140.82.121.5',
+    port: 443
+  }
+]
+[2026-03-31T03:41:12.640Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-31T03:41:12.642Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 140.82.121.5:443
+      at <unknown> (Error: connect ETIMEDOUT 140.82.121.5:443) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '140.82.121.5',
+    port: 443
+  }
+]
+[2026-03-31T03:41:20.821Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-31T03:41:20.823Z] error: <httpProxy> [
+  500,
+  Error: connect ETIMEDOUT 140.82.121.5:443
+      at <unknown> (Error: connect ETIMEDOUT 140.82.121.5:443) {
+    errno: -110,
+    code: 'ETIMEDOUT',
+    syscall: 'connect',
+    address: '140.82.121.5',
+    port: 443
+  }
+]
+[2026-03-31T13:58:42.209Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-31T13:58:42.217Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-03-31T13:58:42.481Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-03-31T13:58:42.483Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-04-07T10:44:19.121Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-04-07T10:44:19.125Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
+[2026-04-07T10:44:19.425Z] error: <httpProxy> Error calling https://api.github.com/repos/gethomepage/homepage/releases...
+[2026-04-07T10:44:19.426Z] error: <httpProxy> [
+  500,
+  [Error: getaddrinfo EAI_AGAIN api.github.com] {
+    errno: -3001,
+    code: 'EAI_AGAIN',
+    syscall: 'getaddrinfo',
+    hostname: 'api.github.com'
+  }
+]
